@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm currently transitioning from a successful career in th
 
 - 🌐 [Portfolio Website](https://michealbreedlove.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/micheal-breedlove)  
-- 📬 Email: micheal@yourdomain.com *(or update with your real contact)*  
+- 📬 Email: mikejohnbreedlove@gmail.com  
 
 ---
 
